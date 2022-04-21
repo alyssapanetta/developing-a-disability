@@ -20,17 +20,14 @@ Modern CSS
 
 Semantic HTML
 
-# developing-a-disability
-Notes and Resources for talk "Living the UX: When a web developer develops a disability"
-
-HTML:
- 15 Days of HTML by Jen Kramer
-   https://jen4web.substack.com
-   https://learnwithjen.com/l/30daysofhtml
+HTML
+ - 15 Days of HTML by Jen Kramer
+   - https://jen4web.substack.com
+   - https://learnwithjen.com/l/30daysofhtml
 
 CSS:
     Stephanie Eckles https://thinkdobecreate.com/
-        - Generating `font-size` CSS Rules and Creating a Fluid Type Scale
+     - Generating `font-size` CSS Rules and Creating a Fluid Type Scale
             https://moderncss.dev/generating-font-size-css-rules-and-creating-a-fluid-type-scale/
         - Guide to CSS Units for Relative Spacing
             https://dev.to/5t3ph/guide-to-css-units-for-relational-spacing-1mj5
