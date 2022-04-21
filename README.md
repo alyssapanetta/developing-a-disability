@@ -1,7 +1,7 @@
 # developing-a-disability
 Notes and Resources for talk "Living the UX: When a web developer develops a disability"
 
-Cognitive Disabilities
+Cognitive Disabilities: COGA
  - https://w3c.github.io/coga/content-usable/
  - https://www.deque.com/blog/an-introductory-guide-to-understanding-cognitive-disabilities/
  - https://www.deque.com/axe-con/sessions/making-content-usable-for-people-with-cognitive-and-learning-disabilities/
@@ -15,18 +15,17 @@ Accessibility: Getting Started
 Accessibility: Deep Dives
  -
 
-Modern CSS
- - https://css-tricks.com/standardizing-focus-styles-with-css-custom-properties/
-
-Semantic HTML
-
-HTML
+Semantic HTML: It all starts here
+ - https://websitesetup.org/html-tutorial-beginners/
+ - https://www.w3schools.com/html/html_intro.asp
  - 15 Days of HTML by Jen Kramer
    - https://jen4web.substack.com
    - https://learnwithjen.com/l/30daysofhtml
 
-CSS:
-    Stephanie Eckles https://thinkdobecreate.com/
+
+Modern CSS: To the Rescue
+
+ - Stephanie Eckles https://thinkdobecreate.com/
      - Generating `font-size` CSS Rules and Creating a Fluid Type Scale
             https://moderncss.dev/generating-font-size-css-rules-and-creating-a-fluid-type-scale/
         - Guide to CSS Units for Relative Spacing
@@ -43,6 +42,9 @@ CSS:
             https://12daysofweb.dev/2021/preference-queries/
         - A Primer On CSS Container Queries
             https://www.smashingmagazine.com/2021/05/complete-guide-css-container-queries/
+        - Standardizing Focus Styles With CSS Custom Properties
+         https://css-tricks.com/standardizing-focus-styles-with-css-custom-properties/
+
 
     Carie Fisher
         - Accessible Typography Essentials (video - requires registration)
@@ -73,7 +75,7 @@ CSS:
 https://css-irl.info/exciting-times-for-browsers-and-css/
 
 
-On Twitter:
+On Twitter
     @springbroken (me)
     @5t3ph
     @TerribleMia
@@ -104,13 +106,6 @@ On Twitter:
     @css (CSS-tricks.com)
     @CSSInRealLife
     @CSSWeekly
-
-
-
-
-
- - https://websitesetup.org/html-tutorial-beginners/
- - https://www.w3schools.com/html/html_intro.asp
 
 Legal Issues
  - https://beta.ada.gov/web-guidance/
