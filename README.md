@@ -1,7 +1,7 @@
 # developing-a-disability
 Notes and Resources for talk "Living the UX: When a web developer develops a disability"
 
-Cognitive Disabilities: COGA
+Cognitive Disabilities
  - https://w3c.github.io/coga/content-usable/
  - https://www.deque.com/blog/an-introductory-guide-to-understanding-cognitive-disabilities/
  - https://www.deque.com/axe-con/sessions/making-content-usable-for-people-with-cognitive-and-learning-disabilities/
