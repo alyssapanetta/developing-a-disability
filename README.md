@@ -7,6 +7,7 @@ Notes and Resources for talk "Living the UX: When a web developer develops a dis
  -
 ## Accessibility: Deep Dives
  - https://ux.stackexchange.com/questions/57340/percentage-of-screen-readers-users-in-usa
+ - https://accessibility.deque.com/how-to-champion-accessibility-and-make-systemic-change
 
 
 ## Browsers Interop Standards
