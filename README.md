@@ -1,10 +1,22 @@
 # developing-a-disability
 Notes and Resources for talk "Living the UX: When a web developer develops a disability"
 
+## SLIDES:
+
+ - Lightning Version (more succinct)
+   - https://livealbany-my.sharepoint.com/:p:/g/personal/apanetta_albany_edu/ERiIOktjki5DkSG-R4k6u_MBI2lSN6LfkJCwTRSNhHCiSw?e=K4jHoL   
+   - Modern CSS Slides start at:
+     - https://livealbany-my.sharepoint.com/:p:/g/personal/apanetta_albany_edu/ERiIOktjki5DkSG-R4k6u_MBI2lSN6LfkJCwTRSNhHCiSw?e=oJA16f&nav=eyJzSWQiOjM4NzQsImNJZCI6OTMwNzU4NjU5fQ
+
+- Full Version as presented at DrupalCon 2022 (more verbose)
+  - https://livealbany-my.sharepoint.com/:p:/g/personal/apanetta_albany_edu/ESemNeRs_HdAhp0AL51CilcBiwafpNlDEhYdqy3U-RZRqg?e=4cAX0B
+  - Modern CSS Slides start at:
+   - https://livealbany-my.sharepoint.com/:p:/g/personal/apanetta_albany_edu/ESemNeRs_HdAhp0AL51CilcBiwafpNlDEhYdqy3U-RZRqg?e=maGuCP&nav=eyJzSWQiOjM4NzQsImNJZCI6OTMwNzU4NjU5fQ
+
 ## Accessibility: Getting Started
  - https://beta.ada.gov/web-guidance/
  - https://www.udacity.com/course/web-accessibility--ud891
- -
+ 
 ## Accessibility: Deep Dives
  - https://ux.stackexchange.com/questions/57340/percentage-of-screen-readers-users-in-usa
  - https://accessibility.deque.com/how-to-champion-accessibility-and-make-systemic-change
