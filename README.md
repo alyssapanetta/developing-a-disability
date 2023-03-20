@@ -206,7 +206,7 @@ organized by author
     - Conquering Responsive Layouts (free course)
     https://courses.kevinpowell.co/conquering-responsive-layouts
 
-- Heydon Pickering & Andy Bell https://heydonworks.com/ andy-bell.co.uk/
+- Heydon Pickering & Andy Bell https://heydonworks.com/ https://andy-bell.co.uk/
   - Every Layout ($69 for full access) https://every-layout.dev/ 
   - Freebies:
     - The Stack https://every-layout.dev/layouts/stack/
