@@ -123,7 +123,7 @@ Notes and Resources for talk "Living the UX: When a web developer develops a dis
 ### Modern CSS
 organized by author
 
- - Michelle Barker
+ - Michelle Barker https://css-irl.info
    - New CSS Features in 2022
      https://www.smashingmagazine.com/2022/03/new-css-features-2022/
 
@@ -150,11 +150,11 @@ organized by author
     - Standardizing Focus Styles With CSS Custom Properties
          https://css-tricks.com/standardizing-focus-styles-with-css-custom-properties/
 
- - Carie Fisher
+ - Carie Fisher https://cariefisher.com
     - Accessible Typography Essentials (video - requires registration)
             https://www.deque.com/axe-con/sessions/accessible-typography-essentials/
 
- - Miriam Suzanne
+ - Miriam Suzanne https://oddbird.net
     - CSS is Rad! from Design 4 Drupal, Boston 2020 (video)
             https://www.youtube.com/watch?v=JTzYGWYjQdg
 
@@ -188,17 +188,17 @@ organized by author
     - Learn Box Alignment
     https://ishadeed.com/article/learn-box-alignment/
 
- - Anthony Hobday
+ - Anthony Hobday https://anthonyhobday.com
     - Visual design rules you can safely follow every time
     https://anthonyhobday.com/sideprojects/saferules/
 
-- Manuel Matuzović
+- Manuel Matuzović https://www.matuzo.at/
     - 100 Days Of More Or Less Modern CSS
     https://www.matuzo.at/blog/2022/100-days-of-more-or-less-modern-css/
     - Day 56: container queries
     https://www.matuzo.at/blog/2022/100daysof-day56/
 
-- Kevin Powell
+- Kevin Powell https://www.kevinpowell.co/
     - Weekly front-end web development & design tips, tricks, and tutorials
     https://www.youtube.com/@KevinPowell
     - Useful & Responsive Layouts, no Media Queries required
@@ -206,7 +206,7 @@ organized by author
     - Conquering Responsive Layouts (free course)
     https://courses.kevinpowell.co/conquering-responsive-layouts
 
-- Heydon Pickering & Andy Bell 
+- Heydon Pickering & Andy Bell https://heydonworks.com/ andy-bell.co.uk/
   - Every Layout ($69 for full access) https://every-layout.dev/ 
   - Freebies:
     - The Stack https://every-layout.dev/layouts/stack/
@@ -214,7 +214,7 @@ organized by author
     - The Cover https://every-layout.dev/layouts/cover/
     - Rudiments https://every-layout.dev/rudiments/boxes/
  
-- James Gilyead & Trys Mudford
+- James Gilyead & Trys Mudford https://twitter.com/j98 https://www.trysmudford.com
   - UTOPIA. Fluid Responsive Design https://utopia.fyi/
     - Introduction Video: https://utopia.fyi/blog/an-introduction-video
     - Fluid Type Scale Calculator: https://utopia.fyi/type/calculator
